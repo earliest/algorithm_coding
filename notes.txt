@@ -1,0 +1,10 @@
+npm install -g typescript
+//tsc helloworld.ts
+tsc --init
+npm install webpack webpack-cli ts-loader -D
+npm install typescript -D
+//doc + tab  to create html template
+//create webpack.config.js file
+npm install webpack-dev-server -D
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
